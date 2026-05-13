@@ -91,18 +91,6 @@ https://drive.google.com/drive/folders/1BotLMHBZZrhfzORJOqqovnUy4UY7X9CK?usp=sha
 
 ---
 
-## Struktur Project
-
-```text
-README.md
-index.html
-Project_Komputasi.ipynb
-Data_hasil_likuifaksi.xlsx
-interpolasi_fs.png
-```
-
----
-
 ## Author
 
 - Kiral Rafa
