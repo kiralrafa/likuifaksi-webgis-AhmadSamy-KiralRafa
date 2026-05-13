@@ -75,6 +75,22 @@ https://kiralrafa.github.io/likuifaksi-webgis-AhmadSamy-KiralRafa/
 
 ---
 
+## Dataset
+
+Data hasil pengolahan dan data pendukung dapat diakses melalui link berikut:
+
+https://drive.google.com/drive/folders/1MykhOUAoMLhA9axRZvcafibx8tHebOw1?usp=sharing
+
+---
+
+## Referensi
+
+Referensi jurnal, paper, dan sumber pendukung analisis dapat diakses melalui link berikut:
+
+https://drive.google.com/drive/folders/1BotLMHBZZrhfzORJOqqovnUy4UY7X9CK?usp=sharing
+
+---
+
 ## Struktur Project
 
 ```text
