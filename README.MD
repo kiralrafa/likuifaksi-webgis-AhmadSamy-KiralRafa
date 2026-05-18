@@ -41,11 +41,52 @@ Visualisasi WebGIS
 
 ---
 
+## Preview WebGIS
+
+Visualisasi WebGIS interaktif hasil plotting titik borehole dan analisis spasial nilai FS.
+
+![Preview WebGIS](preview_webgis.png)
+
+---
+
 ## Hasil Interpolasi Spasial
 
 Visualisasi distribusi spasial nilai Factor of Safety (FS) berdasarkan hasil interpolasi dari titik borehole.
 
 ![Interpolasi FS](interpolasi_fs.png)
+
+---
+
+## Lokasi Penelitian
+
+Area penelitian berada pada wilayah investigasi geoteknik dengan beberapa titik borehole yang digunakan sebagai dasar analisis potensi likuifaksi dan pemetaan spasial nilai Factor of Safety (FS).
+
+---
+
+## Metode Analisis
+
+Analisis likuifaksi dilakukan menggunakan pendekatan empiris Seed & Idriss dengan parameter utama:
+
+- Cyclic Stress Ratio (CSR)
+- Cyclic Resistance Ratio (CRR)
+- Factor of Safety (FS)
+
+Persamaan utama yang digunakan:
+
+```text
+FS = CRR / CSR
+```
+
+Interpretasi dilakukan berdasarkan hubungan antara beban siklik gempa dan kapasitas tahanan tanah terhadap likuifaksi.
+
+---
+
+## Klasifikasi Factor of Safety
+
+| Nilai FS | Interpretasi |
+|----------|---------------|
+| FS < 1   | Rentan Likuifaksi |
+| FS ≥ 1   | Aman |
 
 ---
 
@@ -88,6 +129,29 @@ Visualisasi distribusi spasial nilai Factor of Safety (FS) berdasarkan hasil int
 ## Referensi
 
 [![Open References](https://img.shields.io/badge/Open-References-orange?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1BotLMHBZZrhfzORJOqqovnUy4UY7X9CK?usp=sharing)
+
+---
+
+## Struktur Repository
+
+```text
+README.md
+index.html
+Project_Komputasi.ipynb
+Data_hasil_likuifaksi.xlsx
+preview_webgis.png
+interpolasi_fs.png
+```
+
+---
+
+## Future Development
+
+- Integrasi interpolasi langsung pada WebGIS interaktif
+- Penambahan layer geologi regional
+- Export hasil analisis ke format GeoJSON dan Shapefile
+- Pengembangan visualisasi 3D bawah permukaan
+- Analisis multi-depth liquefaction mapping
 
 ---
 
