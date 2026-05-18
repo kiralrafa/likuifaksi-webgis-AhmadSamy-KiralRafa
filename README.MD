@@ -75,25 +75,19 @@ Visualisasi distribusi spasial nilai Factor of Safety (FS) berdasarkan hasil int
 
 ## Akses WebGIS
 
-Klik link berikut untuk membuka WebGIS:
-
-https://kiralrafa.github.io/likuifaksi-webgis-AhmadSamy-KiralRafa/
+[![Open WebGIS](https://img.shields.io/badge/Open-WebGIS-blue?style=for-the-badge&logo=github)](https://kiralrafa.github.io/likuifaksi-webgis-AhmadSamy-KiralRafa/)
 
 ---
 
 ## Dataset
 
-Data hasil pengolahan dan data pendukung dapat diakses melalui link berikut:
-
-https://drive.google.com/drive/folders/1MykhOUAoMLhA9axRZvcafibx8tHebOw1?usp=sharing
+[![Open Dataset](https://img.shields.io/badge/Open-Dataset-success?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1MykhOUAoMLhA9axRZvcafibx8tHebOw1?usp=sharing)
 
 ---
 
 ## Referensi
 
-Referensi jurnal, paper, dan sumber pendukung analisis dapat diakses melalui link berikut:
-
-https://drive.google.com/drive/folders/1BotLMHBZZrhfzORJOqqovnUy4UY7X9CK?usp=sharing
+[![Open References](https://img.shields.io/badge/Open-References-orange?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1BotLMHBZZrhfzORJOqqovnUy4UY7X9CK?usp=sharing)
 
 ---
 
