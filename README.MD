@@ -41,22 +41,6 @@ Visualisasi WebGIS
 
 ---
 
-## Preview WebGIS
-
-Visualisasi WebGIS interaktif hasil plotting titik borehole dan analisis spasial nilai FS.
-
-![Preview WebGIS](preview_webgis.png)
-
----
-
-## Hasil Interpolasi Spasial
-
-Visualisasi distribusi spasial nilai Factor of Safety (FS) berdasarkan hasil interpolasi dari titik borehole.
-
-![Interpolasi FS](interpolasi_fs.png)
-
----
-
 ## Lokasi Penelitian
 
 Area penelitian berada pada wilayah investigasi geoteknik dengan beberapa titik borehole yang digunakan sebagai dasar analisis potensi likuifaksi dan pemetaan spasial nilai Factor of Safety (FS).
@@ -139,8 +123,6 @@ README.md
 index.html
 Project_Komputasi.ipynb
 Data_hasil_likuifaksi.xlsx
-preview_webgis.png
-interpolasi_fs.png
 ```
 
 ---
