@@ -1,5 +1,11 @@
 # WebGIS Potensi Likuifaksi
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Folium](https://img.shields.io/badge/Folium-WebGIS-green)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial%20Analysis-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-black?logo=github)
+
 Project ini merupakan visualisasi spasial potensi likuifaksi berdasarkan data Standard Penetration Test (SPT) menggunakan Python dan GitHub Pages. Analisis dilakukan dengan menghitung parameter CSR (Cyclic Stress Ratio), CRR (Cyclic Resistance Ratio), dan Factor of Safety (FS) untuk mengidentifikasi zona tanah yang rentan terhadap likuifaksi akibat gempa bumi.
 
 ---
